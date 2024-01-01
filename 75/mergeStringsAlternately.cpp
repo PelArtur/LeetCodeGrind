@@ -20,7 +20,7 @@ public:
             int mediumLimit = lenStringOne > lenStringTwo ? lenStringTwo : lenStringOne;
             int highLimit = lenStringOne < lenStringTwo ? lenStringTwo : lenStringOne;
             string * biggerWord = lenStringOne > lenStringTwo ? &word1 : &word2;
-            
+
             while(i < mediumLimit){
                 result += word1[i];
                 result += word2[i];
@@ -33,3 +33,25 @@ public:
     return result;
     }
 };
+
+/*  TRYING BETTER APPROACH
+
+int i = 0;
+ string result = "";
+ while (i < word1.length() || i < word2.length(){
+    if (i < word1.length()){
+        result += word1[i];
+    }
+    if (i < word2.length()){
+        result += word2[i];
+    }
+
+    i++;
+ }
+
+ Пояснення:
+ Спочатку ми перевіряєм, чи наш індекс менший ніж хоча б за одну довжину з двох.
+ За рахунок цього, якщо один стрінг вже буде повністю записаний, інший продовжить
+ додаватись допоки індекс не буде дорівнювати розміру більшого стрінгу.
+ */
+
