@@ -6,5 +6,5 @@ https://leetcode.com/studyplan/leetcode-75/
 
 Contributors' LeetCode profile links:
 
-- [Artur] (https://leetcode.com/PelArtur/)
-- [David] (https://leetcode.com/sTiro/)
+- [Artur](https://leetcode.com/PelArtur/)
+- [David](https://leetcode.com/sTiro/)
