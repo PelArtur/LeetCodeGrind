@@ -1,10 +1,13 @@
-cmake_minimum_required(VERSION 3.26)
+cmake_minimum_required(VERSION 3.22)
 project(LeetCodeGrind)
 
-set(CMAKE_CXX_STANDARD 14)
+set(LeetCode75_Artur_DIR ${CMAKE_CURRENT_SOURCE_DIR}/LeetCode75_Artur)
 
-add_executable(LeetCodeGrind
-        "LeetCode75_Artur/Array and String/1768_Merge_Strings_Alternately.cpp"
-        "LeetCode75_Artur/Array and String/1071_Greatest_Common_Divisor_of_Strings.cpp"
-        "LeetCode75_Artur/Bit Manipulation/338_Counting_Bits.cpp"
-)
+include_directories(${LeetCode75_Artur_DIR})
+add_subdirectory(${LeetCode75_Artur_DIR})
+
+
+set(DCC2024_Artur_DIR ${CMAKE_CURRENT_SOURCE_DIR}/DCC2024_Artur)
+
+include_directories(${DCC2024_Artur_DIR})
+add_subdirectory(${DCC2024_Artur_DIR})
