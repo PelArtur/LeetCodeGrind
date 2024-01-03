@@ -10,4 +10,7 @@ add_executable(LeetCode75_Artur
         "Linked List/2095_Delete_the_Middle_Node_of_a_Linked_List.cpp"
         "Array and String/1431._Kids_With_the_Greatest_Number_of_Candies.cpp"
         "Two Pointers/283_Move_Zeroes.cpp"
+        "Prefix Sum/1732_Find_the_Highest_Altitude.cpp"
+        "Sliding Window/643_Maximum_Average_Subarray_I.cpp"
+        "Binary Tree - DFS/1448_Count_Good_Nodes_in_Binary_Tree.cpp"
 )
