@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(DCC2024_Artur
         January/Day1_Assign_Cookies.cpp
         January/Day2_Convert_an_Array_Into_a_2D_Array.cpp
+        January/Day3_Number_of_Laser_Beams_in_a_Bank.cpp
 )
