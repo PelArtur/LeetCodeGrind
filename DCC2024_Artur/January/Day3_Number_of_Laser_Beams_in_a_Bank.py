@@ -19,10 +19,12 @@ class Solution(object):
             prevRow = currRow if currRow else prevRow
             
         return beam
-    
-solution = Solution()
-test = ["011001","000000","010100","001000"]
-print(solution.numberOfBeams(test))
+
+
+if (__name__ == '__main__'):
+    solution = Solution()
+    test = ["011001","000000","010100","001000"]
+    print(solution.numberOfBeams(test))
 
 
 """
