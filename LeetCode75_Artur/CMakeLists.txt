@@ -13,4 +13,7 @@ add_executable(LeetCode75_Artur
         "Prefix Sum/1732_Find_the_Highest_Altitude.cpp"
         "Sliding Window/643_Maximum_Average_Subarray_I.cpp"
         "Binary Tree - DFS/1448_Count_Good_Nodes_in_Binary_Tree.cpp"
+        "Array and String/605_Can_Place_Flowers.cpp"
+        "Two Pointers/392_Is_Subsequence.cpp"
+        "Hash Map and Set/1657_Determine_if_Two_Strings_Are_Close.cpp"
 )
