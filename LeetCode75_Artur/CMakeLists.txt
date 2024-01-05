@@ -16,4 +16,5 @@ add_executable(LeetCode75_Artur
         "Array and String/605_Can_Place_Flowers.cpp"
         "Two Pointers/392_Is_Subsequence.cpp"
         "Hash Map and Set/1657_Determine_if_Two_Strings_Are_Close.cpp"
+        "Graphs - DFS/841_Keys_and_Rooms.cpp"
 )
