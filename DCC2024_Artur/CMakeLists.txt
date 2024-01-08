@@ -11,4 +11,5 @@ add_executable(DCC2024_Artur
         January/Day5_Longest_Increasing_Subsequence.cpp
         January/Day6_Maximum_Profit_in_Job_Scheduling.cpp
         "January/Day7_ Arithmetic_SlicesII-Subsequence.cpp"
+        January/Day8_Range_Sum_of_BST.cpp
 )
