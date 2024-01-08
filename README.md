@@ -8,3 +8,4 @@ Contributors' LeetCode profile links:
 
 - [Artur](https://leetcode.com/PelArtur/)
 - [David](https://leetcode.com/sTiro/)
+- [Nastia](https://leetcode.com/Drakonchyk/)
