@@ -12,4 +12,5 @@ add_executable(DCC2024_Artur
         January/Day6_Maximum_Profit_in_Job_Scheduling.cpp
         January/Day7_Arithmetic_SlicesII-Subsequence.cpp
         January/Day8_Range_Sum_of_BST.cpp
+        January/Day9_Leaf-Similar_Trees.cpp
 )

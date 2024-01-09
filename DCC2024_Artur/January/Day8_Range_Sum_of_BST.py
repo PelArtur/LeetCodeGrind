@@ -1,5 +1,5 @@
 """
-https://leetcode.com/problems/arithmetic-slices-ii-subsequence/?envType=daily-question&envId=2024-01-07
+https://leetcode.com/problems/range-sum-of-bst/?envType=daily-question&envId=2024-01-08
 """
 
 from typing import Optional
