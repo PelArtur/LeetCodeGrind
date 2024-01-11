@@ -10,3 +10,8 @@ Contributors' LeetCode profile links:
 - [David](https://leetcode.com/sTiro/)
 - [Nastia](https://leetcode.com/Drakonchyk/)
 - [Olenka](https://leetcode.com/olenkaaaaa/)
+
+
+# Default LeetCode enjoyer
+
+![](/media/sigma.gif)
