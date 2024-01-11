@@ -56,8 +56,7 @@ public:
  вати всі слова в стрінг резалт.
 
 
-Better Solution:
- class Solution {
+class Solution {
 public:
     string reverseWords(string s) {
         stack<string> words;
@@ -67,31 +66,17 @@ public:
         string result = "";
         for(int idx = 0; idx < s.size(); ++idx){
             if(s[idx] == ' '){
-                if(spaceCounter == 0){
-                    if(idx == 0){
-                        continue;
-                    }
-                    if(temp != ""){
-                        words.push(temp);
-                        temp = "";
-                    }
-                    spaceCounter++;
-                } else{
-                    continue;
-                }
-            } else{
+                continue;
+            } while(idx < s.size() && s[idx] != ' '){
                 temp += s[idx];
-                spaceCounter = 0;
-                if(idx == s.size() - 1){
-                    words.push(temp);
-                }
+                idx++;
             }
+            words.push(temp);
+            temp = "";
         }
 
         while(!words.empty()){
-            for(int idx = 0; idx < words.top().size(); ++idx){
-                result += words.top()[idx];
-            }
+            result += words.top();
             words.pop();
             if(!words.empty()){
                 result += ' ';
