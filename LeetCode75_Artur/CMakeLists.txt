@@ -17,4 +17,6 @@ add_executable(LeetCode75_Artur
         "Two Pointers/392_Is_Subsequence.cpp"
         "Hash Map and Set/1657_Determine_if_Two_Strings_Are_Close.cpp"
         "Graphs - DFS/841_Keys_and_Rooms.cpp"
+        Stack/394_Decode_String.cpp
+        "Binary Search Tree/450_Delete_Node_in_a_BST.cpp"
 )
