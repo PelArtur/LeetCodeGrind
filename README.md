@@ -12,6 +12,6 @@ Contributors' LeetCode profile links:
 - [Olenka](https://leetcode.com/olenkaaaaa/)
 
 
-# Default LeetCode enjoyer
+# Average LeetCode enjoyer
 
 ![](/media/sigma.gif)
