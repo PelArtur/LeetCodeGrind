@@ -19,4 +19,5 @@ add_executable(LeetCode75_Artur
         "Graphs - DFS/841_Keys_and_Rooms.cpp"
         Stack/394_Decode_String.cpp
         "Binary Search Tree/450_Delete_Node_in_a_BST.cpp"
+        Queue/649_Dota2_Senate.cpp
 )
