@@ -15,4 +15,5 @@ add_executable(DCC2024_Artur
         January/Day9_Leaf-Similar_Trees.cpp
         January/Day10_Amount_of_Time_for_Binary_Tree_to_Be_Infected.cpp
         January/Day11_Maximum_Difference_Between_Node_and_Ancestor.cpp
+        January/Day12_Determine_if_String_Halves_Are_Alike.cpp
 )
