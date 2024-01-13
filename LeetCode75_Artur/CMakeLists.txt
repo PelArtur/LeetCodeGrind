@@ -21,4 +21,5 @@ add_executable(LeetCode75_Artur
         "Binary Search Tree/450_Delete_Node_in_a_BST.cpp"
         Queue/649_Dota2_Senate.cpp
         "Binary Tree - DFS/872_Leaf-Similar_Trees.cpp"
+        "Binary Tree - BFS/199_Binary_Tree_Right_Side_View.cpp"
 )
