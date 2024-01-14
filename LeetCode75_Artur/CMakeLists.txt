@@ -22,4 +22,8 @@ add_executable(LeetCode75_Artur
         Queue/649_Dota2_Senate.cpp
         "Binary Tree - DFS/872_Leaf-Similar_Trees.cpp"
         "Binary Tree - BFS/199_Binary_Tree_Right_Side_View.cpp"
+        "Graphs - BFS/1926_Nearest_Exit_from_Entrance_in_Maze.cpp"
+        "Heap and Priority Queue/215_Kth_Largest_Element_in_an_Array.cpp"
+        "Binary Search/2300_Successful_Pairs_of_Spells_and_Potions.cpp"
+        "DP - 1D/198_House_Robber.cpp"
 )

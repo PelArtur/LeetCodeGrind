@@ -17,4 +17,5 @@ add_executable(DCC2024_Artur
         January/Day11_Maximum_Difference_Between_Node_and_Ancestor.cpp
         January/Day12_Determine_if_String_Halves_Are_Alike.cpp
         January/Day13_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.cpp
+        January/Day14_Determine_if_Two_Strings_Are_Close.cpp
 )
