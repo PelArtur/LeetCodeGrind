@@ -26,4 +26,5 @@ add_executable(LeetCode75_Artur
         "Heap and Priority Queue/215_Kth_Largest_Element_in_an_Array.cpp"
         "Binary Search/2300_Successful_Pairs_of_Spells_and_Potions.cpp"
         "DP - 1D/198_House_Robber.cpp"
+        "DP - Multidimensional/62_Unique_Paths.cpp"
 )
