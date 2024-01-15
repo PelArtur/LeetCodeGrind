@@ -13,13 +13,14 @@ class Solution:
         return len(word1) == len(word2) and chars1 == chars2 and sorted(word1CharOccurrences) == sorted(word2CharOccurrences)
     
     
-test1 = ["abc", "bca"]
-test2 = ["a", "aa"]
-test3 = ["cabbba", "abbccc"]
+if __name__ == "__main__":
+    test1 = ["abc", "bca"]
+    test2 = ["a", "aa"]
+    test3 = ["cabbba", "abbccc"]
 
-print(Solution().closeStrings(test1[0], test1[1]))
-print(Solution().closeStrings(test2[0], test2[1]))
-print(Solution().closeStrings(test3[0], test3[1]))
+    print(Solution().closeStrings(test1[0], test1[1]))
+    print(Solution().closeStrings(test2[0], test2[1]))
+    print(Solution().closeStrings(test3[0], test3[1]))
 
 
 """
