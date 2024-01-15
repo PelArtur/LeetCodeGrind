@@ -28,4 +28,5 @@ add_executable(LeetCode75_Artur
         "DP - 1D/198_House_Robber.cpp"
         "DP - Multidimensional/62_Unique_Paths.cpp"
         "Array and String/151_Reverse_Words_in_a_String.cpp"
+        "Array and String/334_Increasing_Triplet_Subsequence.cpp"
 )
