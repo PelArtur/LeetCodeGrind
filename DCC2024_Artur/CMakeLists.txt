@@ -19,4 +19,5 @@ add_executable(DCC2024_Artur
         January/Day13_Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.cpp
         January/Day14_Determine_if_Two_Strings_Are_Close.cpp
         January/Day15_Find_Players_With_Zero_or_One_Losses.cpp
+        "January/Day16_Insert_Delete_GetRandom_O(1).cpp"
 )
