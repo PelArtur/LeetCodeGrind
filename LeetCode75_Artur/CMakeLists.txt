@@ -36,4 +36,5 @@ add_executable(LeetCode75_Artur
         "Linked List/328_Odd_Even_Linked_List.cpp"
         "Binary Tree - DFS/1372_Longest_ZigZag_Path_in_a_Binary_Tree.cpp"
         "Graphs - DFS/547_Number_of_Provinces.cpp"
+        "Heap and Priority Queue/2336_Smallest_Number_in_Infinite_Set.cpp"
 )
