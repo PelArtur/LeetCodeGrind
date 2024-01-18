@@ -38,4 +38,7 @@ add_executable(LeetCode75_Artur
         "Graphs - DFS/547_Number_of_Provinces.cpp"
         "Heap and Priority Queue/2336_Smallest_Number_in_Infinite_Set.cpp"
         "Binary Search/162_Find_Peak_Element.cpp"
+        "DP - 1D/790_Domino_and_Tromino_Tiling.cpp"
+        "DP - Multidimensional/1143_Longest_Common_Subsequence.cpp"
+        "DP - 1D/1137_N-th_Tribonacci_Number.cpp"
 )
