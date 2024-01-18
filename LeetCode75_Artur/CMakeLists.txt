@@ -32,4 +32,5 @@ add_executable(LeetCode75_Artur
         "Binary Tree - DFS/437_Path_SumIII.cpp"
         "Array and String/443_String_Compression.cpp"
         "Sliding Window/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.cpp"
+        "Hash Map and Set/2352_Equal_Row_and_Column_Pairs.cpp"
 )
