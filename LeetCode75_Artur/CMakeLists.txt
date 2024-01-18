@@ -30,4 +30,5 @@ add_executable(LeetCode75_Artur
         "Array and String/151_Reverse_Words_in_a_String.cpp"
         "Array and String/334_Increasing_Triplet_Subsequence.cpp"
         "Binary Tree - DFS/437_Path_SumIII.cpp"
+        "Array and String/443_String_Compression.cpp"
 )
