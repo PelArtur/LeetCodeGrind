@@ -35,4 +35,5 @@ add_executable(LeetCode75_Artur
         "Hash Map and Set/2352_Equal_Row_and_Column_Pairs.cpp"
         "Linked List/328_Odd_Even_Linked_List.cpp"
         "Binary Tree - DFS/1372_Longest_ZigZag_Path_in_a_Binary_Tree.cpp"
+        "Graphs - DFS/547_Number_of_Provinces.cpp"
 )
