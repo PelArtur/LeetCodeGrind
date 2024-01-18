@@ -21,4 +21,5 @@ add_executable(DCC2024_Artur
         January/Day15_Find_Players_With_Zero_or_One_Losses.cpp
         "January/Day16_Insert_Delete_GetRandom_O(1).cpp"
         January/Day17_Unique_Number_of_Occurrences.cpp
+        January/Day18_Climbing_Stairs.cpp
 )
