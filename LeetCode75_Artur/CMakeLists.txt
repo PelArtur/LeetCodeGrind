@@ -34,4 +34,5 @@ add_executable(LeetCode75_Artur
         "Sliding Window/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.cpp"
         "Hash Map and Set/2352_Equal_Row_and_Column_Pairs.cpp"
         "Linked List/328_Odd_Even_Linked_List.cpp"
+        "Binary Tree - DFS/1372_Longest_ZigZag_Path_in_a_Binary_Tree.cpp"
 )
