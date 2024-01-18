@@ -31,4 +31,5 @@ add_executable(LeetCode75_Artur
         "Array and String/334_Increasing_Triplet_Subsequence.cpp"
         "Binary Tree - DFS/437_Path_SumIII.cpp"
         "Array and String/443_String_Compression.cpp"
+        "Sliding Window/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.cpp"
 )
