@@ -22,4 +22,5 @@ add_executable(DCC2024_Artur
         "January/Day16_Insert_Delete_GetRandom_O(1).cpp"
         January/Day17_Unique_Number_of_Occurrences.cpp
         January/Day18_Climbing_Stairs.cpp
+        January/Day19_Minimum_Falling_Path_Sum.cpp
 )
