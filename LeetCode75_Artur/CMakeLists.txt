@@ -45,4 +45,5 @@ add_executable(LeetCode75_Artur
         "Hash Map and Set/1207_Unique_Number_of_Occurrences.cpp"
         "Array and String/238_Product_of_Array_Except_Self.cpp"
         "Two Pointers/11_Container_With_Most_Water.cpp"
+        "Sliding Window/1004_Max_Consecutive_OnesIII.cpp"
 )
