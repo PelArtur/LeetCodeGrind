@@ -55,7 +55,7 @@ public:
  то додавати попереднє слово до стаку. Пізніше розвертати стак і дода-
  вати всі слова в стрінг резалт.
 
-
+Better Solution
 class Solution {
 public:
     string reverseWords(string s) {

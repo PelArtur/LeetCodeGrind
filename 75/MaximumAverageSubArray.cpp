@@ -3,31 +3,27 @@
  */
 #include <vector>
 #include <iostream>
-
 using namespace std;
 
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
-        double result = 0;
-        double tempResult = 0;
-        int numsSize = nums.size();
+        int result = 0;
+        int tempResult = 0;
         for(int i = 0; i < k; i ++){
-            result += nums[i];
+            tempResult += nums[i];
         }
-        tempResult = result;
-        for(int i = 1; i <= numsSize - k; i++){
-            tempResult = tempResult - nums[i - 1] + nums[i + k - 1];
-            if (tempResult > result){
-                result = tempResult;
-            }
+        result = tempResult;
+        for(int i = k; i < nums.size(); i++){
+            tempResult += nums[i] - nums[i - k];
+            result = max(tempResult, result);
         }
-        return result/k;
+        return static_cast<double>(result) / k;
     }
 };
 
 int main(){
     Solution solution;
-    vector<int> input = {1,12,-5,-6,50,3};
-    cout << solution.findMaxAverage(input, 4);
+    vector<int> input = {6};
+    cout << solution.findMaxAverage(input, 1);
 }

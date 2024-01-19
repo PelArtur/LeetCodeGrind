@@ -64,7 +64,7 @@ using namespace std;
 class Solution {
 public:
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        int numJobs = profit.size(); // Number of jobs
+        int numJobs = profit.size();
         vector<tuple<int, int, int>> jobs(numJobs);
 
         for (int i = 0; i < numJobs; ++i) {
