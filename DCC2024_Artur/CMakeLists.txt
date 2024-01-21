@@ -23,4 +23,6 @@ add_executable(DCC2024_Artur
         January/Day17_Unique_Number_of_Occurrences.cpp
         January/Day18_Climbing_Stairs.cpp
         January/Day19_Minimum_Falling_Path_Sum.cpp
+        January/Day20_Sum_of_Subarray_Minimums.cpp
+        January/Day21_House_Robber.cpp
 )
