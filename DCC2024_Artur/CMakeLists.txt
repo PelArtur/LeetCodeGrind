@@ -25,4 +25,5 @@ add_executable(DCC2024_Artur
         January/Day19_Minimum_Falling_Path_Sum.cpp
         January/Day20_Sum_of_Subarray_Minimums.cpp
         January/Day21_House_Robber.cpp
+        January/Day22_Set_Mismatch.cpp
 )
