@@ -27,4 +27,5 @@ add_executable(DCC2024_Artur
         January/Day21_House_Robber.cpp
         January/Day22_Set_Mismatch.cpp
         January/Day23_Maximum_Length_of_a_Concatenated_String_with_Unique_Characters.cpp
+        January/Day24_Pseudo-Palindromic_Paths_in_a_Binary_Tree.cpp
 )
