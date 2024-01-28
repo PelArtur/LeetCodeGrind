@@ -30,4 +30,5 @@ add_executable(DCC2024_Artur
         January/Day24_Pseudo-Palindromic_Paths_in_a_Binary_Tree.cpp
         January/Day25_Longest_Common_Subsequence.cpp
         January/Day26_Out_of_Boundary_Paths.cpp
+        January/Day27_K_Inverse_Pairs_Array.cpp
 )
