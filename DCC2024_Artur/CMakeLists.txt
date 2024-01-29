@@ -31,4 +31,5 @@ add_executable(DCC2024_Artur
         January/Day25_Longest_Common_Subsequence.cpp
         January/Day26_Out_of_Boundary_Paths.cpp
         January/Day27_K_Inverse_Pairs_Array.cpp
+        January/Day28_Number_of_Submatrices_That_Sum_to_Target.cpp
 )
