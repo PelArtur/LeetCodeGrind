@@ -35,3 +35,5 @@ if __name__ == "__main__":
     print(Solution().evalRPN(test1))
     print(Solution().evalRPN(test2))
     print(Solution().evalRPN(test3))
+    
+    
