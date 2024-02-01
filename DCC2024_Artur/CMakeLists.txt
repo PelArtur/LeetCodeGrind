@@ -35,4 +35,5 @@ add_executable(DCC2024_Artur
         January/Day29_Implement_Queue_using_Stacks.cpp
         January/Day30_Evaluate_Reverse_Polish_Notation.cpp
         January/Day31_Daily_Temperatures.cpp
+        February/Day1_Divide_Array_Into_Arrays_With_Max_Difference.cpp
 )
