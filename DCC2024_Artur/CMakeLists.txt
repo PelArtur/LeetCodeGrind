@@ -38,4 +38,5 @@ add_executable(DCC2024_Artur
         February/Day1_Divide_Array_Into_Arrays_With_Max_Difference.cpp
         February/Day2_Sequential_Digits.cpp
         February/Day3_Partition_Array_for_Maximum_Sum.cpp
+        February/Day4_Minimum_Window_Substring.cpp
 )
