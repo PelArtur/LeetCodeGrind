@@ -40,4 +40,5 @@ add_executable(DCC2024_Artur
         February/Day3_Partition_Array_for_Maximum_Sum.cpp
         February/Day4_Minimum_Window_Substring.cpp
         February/Day5_First_Unique_Character_in_a_String.cpp
+        February/Day6_Group_Anagrams.cpp
 )
