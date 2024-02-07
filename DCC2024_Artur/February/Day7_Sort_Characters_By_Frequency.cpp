@@ -30,9 +30,7 @@ public:
 
         string res;
         for(auto val : countArr)
-        {
             res += string(val.second, val.first);
-        }
 
         return res;
     }
